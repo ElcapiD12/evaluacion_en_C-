@@ -1,0 +1,4 @@
+C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacion.csproj.AssemblyReference.cache
+C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacion.Properties.Resources.resources
+C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacion.csproj.GenerateResource.cache
+C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacion.csproj.CoreCompileInputs.cache
