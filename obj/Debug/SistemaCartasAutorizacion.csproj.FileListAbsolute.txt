@@ -2,3 +2,12 @@ C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacio
 C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacion.Properties.Resources.resources
 C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacion.csproj.GenerateResource.cache
 C:\Users\DXXRGG\Source\Repos\evaluacion_en_C-\obj\Debug\SistemaCartasAutorizacion.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\obj\Debug\SistemaCartasAutorizacion.csproj.AssemblyReference.cache
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\obj\Debug\SistemaCartasAutorizacion.Properties.Resources.resources
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\obj\Debug\SistemaCartasAutorizacion.csproj.GenerateResource.cache
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\obj\Debug\SistemaCartasAutorizacion.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\bin\Debug\SistemaCartasAutorizacion.exe.config
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\bin\Debug\SistemaCartasAutorizacion.exe
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\bin\Debug\SistemaCartasAutorizacion.pdb
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\obj\Debug\SistemaCartasAutorizacion.exe
+C:\Users\diego\Downloads\programacion orientada\SistemaCartasAutorizacion\obj\Debug\SistemaCartasAutorizacion.pdb

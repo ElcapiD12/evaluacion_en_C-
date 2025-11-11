@@ -33,6 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,14 +49,33 @@
   <ItemGroup>
     <Compile Include="Bussiness\GestorCartas.cs" />
     <Compile Include="CartaAutorizacion.cs" />
+    <Compile Include="DialogMotivoRechazo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogoNombreUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogoNombreUsuario.Designer.cs">
+      <DependentUpon>DialogoNombreUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Forms1.cs" />
-    <Compile Include="Forms\Program.cs" />
+    <Compile Include="Forms\FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FormUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FormUsuario.Designer.cs">
+      <DependentUpon>FormUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
